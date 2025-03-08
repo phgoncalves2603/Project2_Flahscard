@@ -1,0 +1,42 @@
+[
+    {
+      "question": "What does the acronym CPU stand for?",
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+      "answer": "Stack"
+    },
+    {
+      "question": "What is the time complexity of binary search in a sorted array?",
+      "answer": "O(log n)"
+    },
+    {
+      "question": "Which programming language is primarily used for developing iOS applications?",
+      "answer": "Swift"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+      "answer": "Bubble Sort"
+    },
+    {
+      "question": "What is the main purpose of a DNS (Domain Name System)?",
+      "answer": "To translate domain names into IP addresses"
+    },
+    {
+      "question": "Which of the following is NOT an object-oriented programming principle?",
+      "answer": "Recursion"
+    },
+    {
+      "question": "What does SQL stand for?",
+      "answer": "Structured Query Language"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for end-to-end communication and reliability?",
+      "answer": "Transport Layer"
+    }
+]
