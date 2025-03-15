@@ -66,5 +66,38 @@ body {
   transform: rotateY(180deg);
   border:2px solid #ddd;
 }
+.AnswerContainer{
+  display: flex;
+  justify-content:center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+.checkAnswer{
+  border: 2px solid #ddd;
+  background-color: green;
+ 
+}
+.Input{
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  background-color: white;
+  color: black;
 
-
+}
+.InputCorrect{
+  border-radius: 10px;
+  border: 2px solid green;
+  background-color: white;
+  color: black;
+}
+.InputWrong{
+  border-radius: 10px;
+  border: 2px solid red;
+  background-color: white;
+  color: black;
+}
+.scoreContainer{
+  display: flex;
+  justify-content: center;
+  gap:30px;
+}
